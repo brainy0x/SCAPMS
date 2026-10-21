@@ -1,0 +1,20 @@
+# Build output (mine and Qt Creator's "build-*" / "Build *" folders)
+build/
+build-*/
+Build */
+cmake-build-*/
+
+# Submission documents (PDF, report, screenshots) are not part of the code repo
+docs/
+
+# Qt Creator / editor files
+CMakeLists.txt.user*
+*.user
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll

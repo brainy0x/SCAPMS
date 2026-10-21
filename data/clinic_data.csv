@@ -1,0 +1,19 @@
+# SCAPMS data file v1
+PATIENT,P001,General,Amina Yusuf,24,08031234567,NHIS,None
+APPT,A0001,P001,2026-10-12,09:00,Routine check-up,Completed
+APPT,A0002,P001,2026-10-19,10:30,Blood pressure review,Completed
+APPT,A0010,P001,2026-10-30,10:30,Prescription renewal,Pending
+PATIENT,P002,Emergency,Chidi Okafor,45,08059876543,Chest pain,4
+APPT,A0006,P002,2026-10-20,08:15,[URGENT] Chest pain assessment,Completed
+PATIENT,P003,Follow-Up,Fatima Bello,31,07012345678,2026-10-10,Dr. Adeyemi
+APPT,A0003,P003,2026-10-14,11:00,[Follow-up] Wound dressing,Completed
+APPT,A0004,P003,2026-10-30,11:00,[Follow-up] Review results,Pending
+PATIENT,P004,General,Daniel Ojo,19,08123456789,None,Penicillin
+APPT,A0007,P004,2026-10-21,15:00,Allergy consultation,Cancelled
+PATIENT,P005,Follow-Up,Grace Eze,62,09011223344,2026-10-05,Dr. Musa
+APPT,A0005,P005,2026-11-02,14:00,[Follow-up] Diabetes check,Pending
+PATIENT,P006,Emergency,Ibrahim Sani,28,08167890123,Fractured arm,3
+PATIENT,P007,General,Joy Adeleke,35,07098765432,AXA Mansard,Dust
+APPT,A0008,P007,2026-11-04,09:30,Annual physical,Pending
+PATIENT,P008,Follow-Up,Kelechi Nwosu,52,08033445566,2026-09-28,Dr. Adeyemi
+APPT,A0009,P008,2026-11-05,12:00,[Follow-up] Post-op check,Pending
